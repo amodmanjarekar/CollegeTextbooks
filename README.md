@@ -31,7 +31,7 @@ Here's a list of college textbooks as recommended in the syllabus
   <li><a href="https://fdocuments.in/download/tfcsnorman-l-biggs-discrete-mathematics-second-edition">Norman L. Biggs, Discrete Mathematics</a></li>
   <li><a href="https://www.alas.matf.bg.ac.rs/~mi10164/Materijali/DS.pdf">Schaum’s Outlines Series, Seymour Lipschutz, Marc Lipson, Discrete Mathematics</a></li>
  </ol>
- <li>Data Structures
+ <li>Data Structures</li>
   Textbooks
   <ol>
    <li><a href="http://www.nitjsr.ac.in/course_assignment/CS01CS1302A%20Book%20Fundamentals%20of%20Data%20Structure%20(1982)%20by%20Ellis%20Horowitz%20and%20Sartaj%20Sahni.pdf">Ellis Horowitz, Sartaj Sahni, Fundamentals of Data Structure</a></li>
